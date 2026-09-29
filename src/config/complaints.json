@@ -1,0 +1,47 @@
+{
+  "id": "subjective_complaints",
+  "title": "Daftar Keluhan Subjektif",
+  "status": "DRAF: Berdasarkan contoh PRD F4, menunggu peninjauan dokter pembimbing",
+  "items": [
+    {
+      "id": "c1",
+      "text": "Mudah lupa kejadian yang baru saja terjadi",
+      "category": "daya_ingat"
+    },
+    {
+      "id": "c2",
+      "text": "Sulit menemukan kata yang tepat saat berbicara",
+      "category": "bahasa"
+    },
+    {
+      "id": "c3",
+      "text": "Pernah merasa bingung arah atau tersesat di tempat yang sudah biasa dikunjungi",
+      "category": "orientasi"
+    },
+    {
+      "id": "c4",
+      "text": "Sering lupa nama orang-orang terdekat",
+      "category": "daya_ingat"
+    },
+    {
+      "id": "c5",
+      "text": "Sering mengulang pertanyaan atau cerita yang sama dalam waktu singkat",
+      "category": "daya_ingat"
+    },
+    {
+      "id": "c6",
+      "text": "Sulit mengikuti jalannya percakapan atau cerita yang panjang",
+      "category": "perhatian"
+    },
+    {
+      "id": "c7",
+      "text": "Sulit merencanakan atau menyelesaikan tugas rumah tangga sehari-hari",
+      "category": "fungsi_eksekutif"
+    },
+    {
+      "id": "c8",
+      "text": "Merasa proses berpikir atau merespons lebih lambat dari biasanya",
+      "category": "kecepatan_berpikir"
+    }
+  ]
+}

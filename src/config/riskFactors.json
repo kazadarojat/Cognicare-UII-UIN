@@ -1,0 +1,92 @@
+{
+  "id": "modifiable_risk_factors",
+  "title": "Faktor Risiko Gaya Hidup (14 Faktor Lancet 2024)",
+  "status": "DRAF: Menunggu peninjauan dokter pembimbing",
+  "description": "Faktor kesehatan dan kebiasaan hidup sehari-hari yang dapat dimodifikasi atau diperbaiki.",
+  "factors": [
+    {
+      "id": "hearing_loss",
+      "label": "Fungsi Pendengaran",
+      "question": "Apakah Anda merasakan adanya penurunan kemampuan mendengar dalam percakapan sehari-hari?",
+      "help": "Misal: sering meminta orang lain mengulang perkataan atau perlu menyetel volume TV lebih keras.",
+      "allowUnknown": true
+    },
+    {
+      "id": "hypertension",
+      "label": "Tekanan Darah (Hipertensi)",
+      "question": "Apakah Anda memiliki riwayat tekanan darah tinggi (tensi di atas 140/90 mmHg) atau mengonsumsi obat tensi rutin?",
+      "help": "Pilih 'Belum pernah diperiksa' jika belum pernah mengukur tensi di faskes.",
+      "allowUnknown": true
+    },
+    {
+      "id": "smoking",
+      "label": "Kebiasaan Merokok",
+      "question": "Apakah saat ini Anda memiliki kebiasaan merokok aktif secara rutin?",
+      "help": "Rokok kretek, filter, cerutu, maupun rokok elektrik.",
+      "allowUnknown": false
+    },
+    {
+      "id": "physical_inactivity",
+      "label": "Aktivitas Fisik & Olahraga",
+      "question": "Apakah Anda jarang berolahraga atau kurang bergerak aktif (kurang dari 150 menit jalan santai/senam per minggu)?",
+      "help": "Aktivitas fisik ringan seperti jalan kaki atau berkebun rutin terhitung gerak aktif.",
+      "allowUnknown": false
+    },
+    {
+      "id": "depression",
+      "label": "Suasana Hati & Depresi",
+      "question": "Apakah dalam beberapa bulan terakhir sering merasa sedih mendalam, murung, atau kehilangan minat berkegiatan?",
+      "help": "Perasaan tertekan atau hilangnya semangat beraktivitas.",
+      "allowUnknown": true
+    },
+    {
+      "id": "social_isolation",
+      "label": "Interaksi Sosial",
+      "question": "Apakah Anda sering merasa kesepian atau jarang berinteraksi dengan tetangga, teman, atau keluarga?",
+      "help": "Jarang berkumpul, jarang keluar rumah, atau tidak aktif dalam kegiatan warga.",
+      "allowUnknown": false
+    },
+    {
+      "id": "diabetes",
+      "label": "Gula Darah (Diabetes)",
+      "question": "Apakah pernah dinyatakan memiliki kadar gula darah tinggi (kencing manis / diabetes) oleh dokter?",
+      "help": "Pilih 'Belum pernah diperiksa' bila belum pernah cek laboratorium / gula darah puasa.",
+      "allowUnknown": true
+    },
+    {
+      "id": "high_ldl_cholesterol",
+      "label": "Kolesterol LDL",
+      "question": "Apakah hasil tes kolesterol Anda pernah dinyatakan tinggi (kolesterol jahat / LDL tinggi)?",
+      "help": "Pilih 'Belum pernah diperiksa' bila belum pernah melakukan cek darah profil lipid.",
+      "allowUnknown": true
+    },
+    {
+      "id": "untreated_vision_loss",
+      "label": "Kesehatan Penglihatan",
+      "question": "Apakah Anda memiliki gangguan penglihatan yang belum tertangani dengan baik (misal mata buram atau katarak)?",
+      "help": "Penglihatan buram tanpa kacamata koreksi yang sesuai.",
+      "allowUnknown": true
+    },
+    {
+      "id": "traumatic_brain_injury",
+      "label": "Riwayat Cedera Kepala",
+      "question": "Apakah pernah mengalami benturan kepala cukup keras hingga pingsan atau perlu perawatan medis?",
+      "help": "Akibat kecelakaan lalu lintas, jatuh, atau benturan benda tumpul.",
+      "allowUnknown": true
+    },
+    {
+      "id": "air_pollution",
+      "label": "Paparan Polusi Udara",
+      "question": "Apakah tempat tinggal atau lingkungan harian Anda sering terpapar asap tebal, debu padat, atau asap pembakaran?",
+      "help": "Dekat jalan raya padat, industri, atau sering membakar sampah di pekarangan.",
+      "allowUnknown": true
+    },
+    {
+      "id": "excessive_alcohol",
+      "label": "Konsumsi Alkohol",
+      "question": "Apakah Anda mengonsumsi minuman beralkohol secara sering atau dalam jumlah berlebih?",
+      "help": "Konsumsi berkala atau melebihi batas aman mingguan.",
+      "allowUnknown": false
+    }
+  ]
+}

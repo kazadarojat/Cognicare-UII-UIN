@@ -1,0 +1,6 @@
+{
+  "name": "CogniCare",
+  "description": "Platform skrining risiko kognitif dan pengurangan risiko Alzheimer untuk masyarakat Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

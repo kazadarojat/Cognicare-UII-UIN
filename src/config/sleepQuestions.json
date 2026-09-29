@@ -1,0 +1,48 @@
+{
+  "id": "sleep_assessment",
+  "title": "Kuesioner Pola & Kualitas Tidur",
+  "status": "DRAF: Berdasarkan PRD F6, menunggu peninjauan dokter pembimbing",
+  "description": "5 pertanyaan seputar durasi dan kemungkinan gangguan tidur sehari-hari.",
+  "questions": [
+    {
+      "id": "avg_hours",
+      "number": 1,
+      "label": "Durasi Tidur Malam Rata-rata",
+      "text": "Berapa jam rata-rata durasi tidur malam Anda setiap harinya?",
+      "help": "Waktu tidur aktual (bukan sekadar berbaring di tempat tidur).",
+      "type": "number_hours"
+    },
+    {
+      "id": "insomnia",
+      "number": 2,
+      "label": "Kesulitan Memulai / Mempertahankan Tidur",
+      "text": "Apakah sering membutuhkan waktu lebih dari 30 menit untuk bisa terlelap, atau sulit mempertahankan tidur?",
+      "help": "Gejala sulit tidur (insomnia) minimal 3 kali seminggu.",
+      "type": "boolean"
+    },
+    {
+      "id": "night_waking",
+      "number": 3,
+      "label": "Terbangun di Malam Hari",
+      "text": "Apakah sering terbangun di tengah malam (misal terbangun gelisah) dan merasa sangat sulit untuk tidur kembali?",
+      "help": "Kerap terbangun berulang kali selama jam tidur.",
+      "type": "boolean"
+    },
+    {
+      "id": "apnea_screen",
+      "number": 4,
+      "label": "Mendengkur Keras atau Tersedak / Henti Napas",
+      "text": "Apakah orang lain/keluarga pernah memperhatikan Anda mendengkur sangat keras atau tampak berhenti bernapas sesaat saat tidur?",
+      "help": "Tanda kemungkinan henti napas saat tidur (sleep apnea).",
+      "type": "boolean"
+    },
+    {
+      "id": "daytime_sleepiness",
+      "number": 5,
+      "label": "Rasa Kantuk Berlebihan di Siang Hari",
+      "text": "Apakah sering merasa sangat mengantuk atau mudah tertidur tanpa sengaja di siang hari saat sedang duduk atau bersantai?",
+      "help": "Rasa lelah atau kantuk yang mengganggu aktivitas sehari-hari.",
+      "type": "boolean"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "risk_reduction_actions",
+  "title": "Katalog Langkah Pengurangan Risiko Gaya Hidup (PRD F9)",
+  "status": "DRAF, perlu tinjauan dokter",
+  "notice": "Semua saran bersifat edukasi gaya hidup umum, bukan resep medis. Tanpa dosis obat dan bukan jaminan pengobatan.",
+  "actions": [
+    {
+      "factorId": "hypertension",
+      "factorName": "Tekanan Darah (Hipertensi)",
+      "priorityRank": 1,
+      "reason": "Tekanan darah yang terkontrol dengan baik membantu menjaga kelancaran aliran darah dan pasokan oksigen ke seluruh sel otak.",
+      "concreteStep": "Lakukan pemeriksaan tekanan darah secara berkala di Puskesmas atau posyandu lansia terdekat, serta kurangi asupan garam dalam makanan sehari-hari.",
+      "unknownAdvice": "Jadwalkan pengukuran tensi di faskes atau posyandu terdekat karena riwayat tekanan darah Anda belum pernah diperiksa."
+    },
+    {
+      "factorId": "hearing_loss",
+      "factorName": "Fungsi Pendengaran",
+      "priorityRank": 2,
+      "reason": "Pendengaran yang baik memudahkan otak menerima stimulasi suara dan menjaga keterhubungan komunikasi saat berbincang dengan keluarga.",
+      "concreteStep": "Konsultasikan ke dokter atau layanan kesehatan untuk evaluasi pendengaran berkala dan pertimbangkan penggunaan alat bantu dengar jika dianjurkan.",
+      "unknownAdvice": "Lakukan pemeriksaan fungsi telinga dan pendengaran di faskes jika sering merasa kesulitan menyimak percakapan."
+    },
+    {
+      "factorId": "diabetes",
+      "factorName": "Kadar Gula Darah (Diabetes)",
+      "priorityRank": 3,
+      "reason": "Kadar gula darah yang stabil menjaga metabolisme energi otak tetap optimal untuk aktivitas berpikir sehari-hari.",
+      "concreteStep": "Terapkan pola makan gizi seimbang dengan membatasi minuman manis, perbanyak sayur, serta lakukan kontrol rutin ke fasilitas kesehatan.",
+      "unknownAdvice": "Periksakan kadar gula darah puasa di Puskesmas atau klinik terdekat karena Anda belum pernah melakukan cek gula darah."
+    },
+    {
+      "factorId": "smoking",
+      "factorName": "Kebiasaan Merokok",
+      "priorityRank": 4,
+      "reason": "Mengurangi atau berhenti merokok membantu memelihara kebersihan pembuluh darah yang mengalirkan nutrisi ke jaringan otak.",
+      "concreteStep": "Mulai kurangi jumlah batang rokok harian secara bertahap atau manfaatkan layanan konsultasi berhenti merokok (UBM) di Puskesmas.",
+      "unknownAdvice": "Hindari paparan asap rokok lingkungan di rumah untuk menjaga kesehatan pernapasan dan sirkulasi."
+    },
+    {
+      "factorId": "physical_inactivity",
+      "factorName": "Aktivitas Fisik & Gerak",
+      "priorityRank": 5,
+      "reason": "Aktivitas fisik teratur merangsang pelepasan faktor pertumbuhan saraf dan melancarkan sirkulasi darah tubuh.",
+      "concreteStep": "Lakukan aktivitas fisik ringan hingga sedang seperti jalan santai pagi, senam lansia, atau berkebun selama 20–30 menit sehari (minimal 3–5 kali seminggu).",
+      "unknownAdvice": "Mulai biasakan jalan santai harian di sekitar rumah untuk melatih kekuatan otot dan sirkulasi tubuh."
+    },
+    {
+      "factorId": "obesity",
+      "factorName": "Keseimbangan Berat Badan (IMT)",
+      "priorityRank": 6,
+      "reason": "Menjaga berat badan yang proporsional membantu meringankan beban metabolisme tubuh dan stabilitas sirkulasi.",
+      "concreteStep": "Perbanyak porsi sayur dan buah dalam piring makan, kurangi gorengan atau camilan tinggi gula, serta imbangi dengan gerak badan santai.",
+      "unknownAdvice": "Timbang berat badan dan ukur lingkar pinggang secara rutin di posyandu untuk memantau status kebugaran tubuh."
+    },
+    {
+      "factorId": "depression",
+      "factorName": "Kesejahteraan Suasana Hati",
+      "priorityRank": 7,
+      "reason": "Suasana hati yang tenang dan terkelola dengan baik membantu fungsi fokus, konsentrasi, dan daya ingat harian.",
+      "concreteStep": "Ceritakan perasaan Anda kepada orang terdekat, ikuti kegiatan rekreasi ringan, dan jangan ragu berkonsultasi dengan tenaga kesehatan bila rasa sedih berlarut-larut.",
+      "unknownAdvice": "Jadwalkan sesi bincang santai dengan konselor atau dokter umum di Puskesmas bila merasa sering murung atau kehilangan minat."
+    },
+    {
+      "factorId": "social_isolation",
+      "factorName": "Keterlibatan Sosial",
+      "priorityRank": 8,
+      "reason": "Berinteraksi aktif dengan teman dan tetangga memberikan stimulasi sosial yang melatih ketajaman komunikasi otak.",
+      "concreteStep": "Luangkan waktu berkumpul dengan keluarga, aktif dalam perkumpulan warga, pengajian, arisan, atau kelompok hobi santai di lingkungan rumah.",
+      "unknownAdvice": "Mulai hubungi teman lama atau ikuti kegiatan silaturahmi warga untuk memperluas interaksi sosial."
+    },
+    {
+      "factorId": "high_ldl_cholesterol",
+      "factorName": "Kadar Kolesterol",
+      "priorityRank": 9,
+      "reason": "Profil lipid darah yang terkontrol menjaga keelastisan dinding pembuluh darah otak.",
+      "concreteStep": "Pilih metode masak kukus atau rebus dibanding gorengan, perbanyak serat dari oat dan sayur, serta lakukan kontrol profil lemak berkala.",
+      "unknownAdvice": "Lakukan pemeriksaan profil lipid (kolesterol) di laboratorium faskes karena kadar kolesterol Anda belum pernah diperiksa."
+    },
+    {
+      "factorId": "untreated_vision_loss",
+      "factorName": "Kesehatan Penglihatan",
+      "priorityRank": 10,
+      "reason": "Penglihatan yang jelas membantu orientasi spasial dan interaksi aman dengan lingkungan sehari-hari.",
+      "concreteStep": "Periksakan mata ke dokter mata atau optik untuk mendapatkan kacamata koreksi yang tepat atau evaluasi katarak bila ada.",
+      "unknownAdvice": "Lakukan tes tajam penglihatan sederhana di Puskesmas untuk memastikan tidak ada gangguan fokus mata yang terlewat."
+    },
+    {
+      "factorId": "air_pollution",
+      "factorName": "Paparan Polusi Udara",
+      "priorityRank": 11,
+      "reason": "Udara bersih membantu melindungi sistem pernapasan dan mengurangi paparan partikel halus ke pembuluh darah.",
+      "concreteStep": "Gunakan masker saat beraktivitas di dekat jalan raya padat, hindari membakar sampah di pekarangan rumah, dan perbanyak tanaman hijau.",
+      "unknownAdvice": "Perhatikan ventilasi udara di rumah dan hindari asap rokok atau asap bakaran di area istirahat."
+    },
+    {
+      "factorId": "traumatic_brain_injury",
+      "factorName": "Perlindungan Kepala & Pencegahan Jatuh",
+      "priorityRank": 12,
+      "reason": "Mencegah benturan kepala melindungi keutuhan jaringan saraf dan fungsi koordinasi tubuh.",
+      "concreteStep": "Pastikan pencahayaan rumah cukup terang, pasang pegangan di kamar mandi, singkirkan keset licin, dan kenakan helm saat bersepeda/berkendara.",
+      "unknownAdvice": "Periksa kondisi rumah untuk memastikan jalur jalan bebas dari rintangan yang berisiko membuat tersandung."
+    },
+    {
+      "factorId": "excessive_alcohol",
+      "factorName": "Konsumsi Alkohol",
+      "priorityRank": 13,
+      "reason": "Membatasi alkohol menjaga fungsi hati, metabolisme vitamin B, dan kejernihan proses berpikir.",
+      "concreteStep": "Batasi atau hindari minuman beralkohol dan ganti dengan minuman sehat seperti air putih atau jus buah tanpa gula.",
+      "unknownAdvice": "Disarankan memilih air putih dan asupan hidrasi sehat setiap hari."
+    },
+    {
+      "factorId": "low_education",
+      "factorName": "Stimulasi Kognitif Sehari-hari",
+      "priorityRank": 14,
+      "reason": "Melatih otak dengan aktivitas baru secara konsisten membangun cadangan kognitif (cognitive reserve) sepanjang hidup.",
+      "concreteStep": "Latih otak dengan membaca berita, mengisi teka-teki silang, belajar keterampilan tangan baru, atau mendengarkan siaran radio edukatif.",
+      "unknownAdvice": "Terus latih kemampuan berpikir dengan aktivitas kegemaran yang melibatkan konsentrasi dan pemecahan masalah."
+    }
+  ]
+}

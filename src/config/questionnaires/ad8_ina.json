@@ -1,0 +1,66 @@
+{
+  "id": "ad8_ina",
+  "title": "Kuesioner AD8-INA",
+  "subtitle": "Kuesioner 8 Butir Perubahan Fungsi Kognitif Sehari-hari",
+  "status": "DRAF: menunggu teks resmi AD8-INA",
+  "instructions": "Apakah ada perubahan pada kemampuan orang yang diskrining dibandingkan kebiasaan sebelumnya? Pilihlah apakah ada perubahan, tidak ada perubahan, atau tidak tahu.",
+  "options": [
+    {
+      "value": "yes",
+      "label": "Ya, ada perubahan",
+      "description": "Terlihat ada perubahan atau penurunan dibandingkan dulu"
+    },
+    {
+      "value": "no",
+      "label": "Tidak ada perubahan",
+      "description": "Masih sama seperti biasa, tidak ada penurunan"
+    },
+    {
+      "value": "unknown",
+      "label": "Tidak tahu",
+      "description": "Tidak yakin atau tidak pernah mengamati hal ini"
+    }
+  ],
+  "items": [
+    {
+      "id": "ad8_1",
+      "number": 1,
+      "text": "[DRAF: menunggu teks resmi AD8-INA]"
+    },
+    {
+      "id": "ad8_2",
+      "number": 2,
+      "text": "[DRAF: menunggu teks resmi AD8-INA]"
+    },
+    {
+      "id": "ad8_3",
+      "number": 3,
+      "text": "[DRAF: menunggu teks resmi AD8-INA]"
+    },
+    {
+      "id": "ad8_4",
+      "number": 4,
+      "text": "[DRAF: menunggu teks resmi AD8-INA]"
+    },
+    {
+      "id": "ad8_5",
+      "number": 5,
+      "text": "[DRAF: menunggu teks resmi AD8-INA]"
+    },
+    {
+      "id": "ad8_6",
+      "number": 6,
+      "text": "[DRAF: menunggu teks resmi AD8-INA]"
+    },
+    {
+      "id": "ad8_7",
+      "number": 7,
+      "text": "[DRAF: menunggu teks resmi AD8-INA]"
+    },
+    {
+      "id": "ad8_8",
+      "number": 8,
+      "text": "[DRAF: menunggu teks resmi AD8-INA]"
+    }
+  ]
+}
