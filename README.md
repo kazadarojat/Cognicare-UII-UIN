@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/4e442615-085e-4a83-8ea2-92719a419e89" />
+
 # 🧠 Cognicare
 
 ### Multimodal Cognitive Health Monitoring Platform
